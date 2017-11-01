@@ -1,6 +1,5 @@
 package vehicle;
 
-
 public class Motore {
 
 	private int cilindrata;
