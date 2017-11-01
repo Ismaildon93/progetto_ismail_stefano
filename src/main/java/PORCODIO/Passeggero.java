@@ -1,4 +1,6 @@
-	
+package PORCODIO;
+
+
 public class Passeggero {
 	
 	private String nome;
