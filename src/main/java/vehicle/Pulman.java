@@ -21,6 +21,7 @@ public class Pulman extends Veicolo {
 	}
 	
 	
+	
 	public int addPasseggero(Passeggero passeggero){
 		
 		passeggeri.add(passeggero);
