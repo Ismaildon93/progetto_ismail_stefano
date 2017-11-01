@@ -10,6 +10,7 @@ public class Motore {
 		this.pistoni = pistoni;
 	}
 	
+	
 	public int getCilindrata(){
 		return cilindrata;
 	}
