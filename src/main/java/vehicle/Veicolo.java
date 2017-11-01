@@ -1,3 +1,6 @@
+package vehicle;
+
+
 public abstract class Veicolo {
 
 	private String targa;

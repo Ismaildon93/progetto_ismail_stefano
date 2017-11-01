@@ -1,3 +1,5 @@
+package vehicle;
+
 
 public class Pulman extends Veicolo {
 
@@ -7,7 +9,7 @@ public class Pulman extends Veicolo {
 	public Pulman(String societa, int numPosti, String targa, String numTelaio, 
 						int cilindrata, int pistoni){
 		
-		this.super(targa, numTelaio, cilindrata, pistoni);
+		super(targa, numTelaio, cilindrata, pistoni);
 		this.societa = societa;
 		this.numPosti = numPosti;
 		
